@@ -2,7 +2,7 @@
 
 
 def add(a, b):
-    return a + 1
+    return a + b
 
 
 def sub(a, b):
